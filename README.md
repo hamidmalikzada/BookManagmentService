@@ -1,7 +1,7 @@
 # BookManagmentService
 
 ## Description
-This project is a book management system built with .NET C# web api. It allows users to keep track of their books, including details such as title, authors, publisger and publication date.
+This project is a book management system built with ASP .NET web api. It allows users to keep track of their books, including details such as title, authors, publisger and publication date.
 
 ## Features
 - Add new books to the system
